@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "createdOn": "2022-03-02T10:00:00.000Z",
+    "gender": "male",
+    "dob": "1990-01-01",
+    "city": "New York",
+    "state": "NY",
+    "pincode": "10001"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "createdOn": "2022-03-01T09:00:00.000Z",
+    "gender": "female",
+    "dob": "1995-02-14",
+    "city": "Los Angeles",
+    "state": "CA",
+    "pincode": "90001"
+  },
+  {
+    "id": 3,
+    "name": "Bob Smith",
+    "createdOn": "2022-03-03T12:00:00.000Z",
+    "gender": "male",
+    "dob": "1985-05-20",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60601"
+  },
+  {
+    "id": 4,
+    "name": "Mary Johnson",
+    "createdOn": "2022-03-04T14:00:00.000Z",
+    "gender": "female",
+    "dob": "1998-08-12",
+    "city": "Houston",
+    "state": "TX",
+    "pincode": "77001"
+  },
+  {
+    "id": 5,
+    "name": "David Lee",
+    "createdOn": "2022-03-05T16:00:00.000Z",
+    "gender": "male",
+    "dob": "1989-12-31",
+    "city": "San Francisco",
+    "state": "CA",
+    "pincode": "94101"
+  },
+  {
+    "id": 6,
+    "name": "Emily Davis",
+    "createdOn": "2022-03-06T18:00:00.000Z",
+    "gender": "female",
+    "dob": "1992-03-25",
+    "city": "Boston",
+    "state": "MA",
+    "pincode": "02101"
+  },
+  {
+    "id": 7,
+    "name": "Tom Brown",
+    "createdOn": "2022-03-07T20:00:00.000Z",
+    "gender": "male",
+    "dob": "1987-07-15",
+    "city": "Washington",
+    "state": "DC",
+    "pincode": "20001"
+  },
+  {
+    "id": 8,
+    "name": "Jessica Chen",
+    "createdOn": "2022-03-08T22:00:00.000Z",
+    "gender": "female",
+    "dob": "1997-01-08",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98101"
+  }
+]
